@@ -1,5 +1,5 @@
 # H&M Recommendation System
-## Description
+## 📌 Description
 This project implements a personalized fashion recommendation system for the
 H&M Personalized Fashion Recommendations Kaggle competition.
 

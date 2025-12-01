@@ -11,6 +11,7 @@ __pycache__/
 # Data files
 hm_data/
 data/
+results/
 *.zip
 *.csv
 *.parquet
