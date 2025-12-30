@@ -12,6 +12,8 @@ __pycache__/
 hm_data/
 data/
 results/
+models/
+experiments/
 *.zip
 *.csv
 *.parquet

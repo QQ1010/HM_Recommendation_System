@@ -2,3 +2,5 @@ kaggle
 numpy
 pandas
 matplotlib
+lightgbm
+scikit-learn
