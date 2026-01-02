@@ -13,7 +13,11 @@ hm_data/
 data/
 results/
 models/
-experiments/
+old_models/
+old_experiments/
+notebooks/03_out.ipynb
+notebooks/04_svd_embedding.nbconvert.ipynb
+notebooks/03_ranking_old.ipynb
 *.zip
 *.csv
 *.parquet
