@@ -27,6 +27,7 @@ using features derived from:
 - Product metadata (categories, garment groups, etc.)
 - Transaction history
 - Temporal patterns (recency, seasonality, time decay)
+- Graph embeddings
 The final output is a personalized list of 12 recommended items for each customer.
 
 This repository contains:
